@@ -19,5 +19,5 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: nice_nano_v2
     shield: sofle_right
-  - board: nice_nano_v2
+  - board: promicro_nrf52840
     shield: settings_reset
